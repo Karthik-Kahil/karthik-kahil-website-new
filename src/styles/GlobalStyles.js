@@ -12,7 +12,7 @@ const GlobalStyles = createGlobalStyle`
     --baackground--gradient: radial-gradient(circle, rgba(204,223,183,1) 22%, rgba(207,223,208,1) 51%, rgba(216,231,196,1) 80%, rgba(231,236,188,1) 89%, rgba(232,235,199,1) 100%);
 
 
-    --color-grey-0: #fff;
+  --color-grey-0: #fff;
   --color-grey-50: #f9fafb;
   --color-grey-100: #f3f4f6;
   --color-grey-200: #e5e7eb;
